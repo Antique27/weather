@@ -86,6 +86,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.2"
+  flutter_load_kit:
+    dependency: "direct main"
+    description:
+      name: flutter_load_kit
+      sha256: e70dca721785141324279afca0bf5769b9e76883d80cb52faca2779b26ef8bcc
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
